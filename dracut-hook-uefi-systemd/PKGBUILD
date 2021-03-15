@@ -2,10 +2,10 @@
 # Maintainer: Franklyn Tackitt <franklyn@tackitt.net>
 # Maintainer: Kevin Del Castillo <quebin31@gmail.com>
 
-pkgname=dracut-hook-uefi
+pkgname=dracut-hook-uefi-systemd
 pkgver=0.4.3
 pkgrel=1
-pkgdesc="Install/remove hooks for dracut unified kernel images"
+pkgdesc="Install/remove hooks for dracut unified kernel images for systemd-boot"
 url=https://dracut.wiki.kernel.org/index.php/Main_Page
 arch=('any')
 license=('BSD')

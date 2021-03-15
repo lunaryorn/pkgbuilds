@@ -1,5 +1,5 @@
-pkgbase = dracut-hook-uefi
-	pkgdesc = Install/remove hooks for dracut unified kernel images
+pkgbase = dracut-hook-uefi-systemd
+	pkgdesc = Install/remove hooks for dracut unified kernel images for systemd-boot
 	pkgver = 0.4.3
 	pkgrel = 1
 	url = https://dracut.wiki.kernel.org/index.php/Main_Page
@@ -16,5 +16,5 @@ pkgbase = dracut-hook-uefi
 	sha256sums = 492d51df1234b75a32e7dff63c86ee104a7d844a408070e1c4da5dc8ab53be6f
 	sha256sums = 054dac9f1d55029a922ff05c3064e54d25790c7a18d2b598edc58ef3d295cba1
 
-pkgname = dracut-hook-uefi
+pkgname = dracut-hook-uefi-systemd
 

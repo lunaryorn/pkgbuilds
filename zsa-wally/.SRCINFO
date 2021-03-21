@@ -1,0 +1,20 @@
+pkgbase = zsa-wally
+	pkgdesc = Flash your ZSA Keyboard the EZ way.
+	pkgver = 2.1.0
+	pkgrel = 1
+	url = https://github.com/zsa/wally
+	arch = i686
+	arch = x86_64
+	license = MIT
+	makedepends = go
+	makedepends = npm
+	depends = gtk3
+	depends = webkit2gtk
+	depends = libusb
+	source = zsa-wally-2.1.0.tar.gz::https://github.com/zsa/wally/archive/refs/tags/2.1.0-linux.tar.gz
+	md5sums = f4a98a0e51d5d0b6d23a95858d230e11
+	sha1sums = deb20d7c9b1a1eb799bb2288540fb7119f1f8ba2
+	sha512sums = d84c469f7d43ba86eb5d0d527a17b588ea12e0272897231392e0572cef0a80f806948a225e263806e5cf7b2fc95eb58e02468ecbe8d12f69ec07919eb364e789
+
+pkgname = zsa-wally
+
